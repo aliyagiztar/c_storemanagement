@@ -1,0 +1,8 @@
+/Users/aliyagiztar/RiderProjects/c_storemanagement/obj/Debug/c_storemanagement.csproj.AssemblyReference.cache
+/Users/aliyagiztar/RiderProjects/c_storemanagement/obj/Debug/c_storemanagement.csproj.CoreCompileInputs.cache
+/Users/aliyagiztar/Desktop/c_storemanagement/bin/Debug/c_storemanagement.exe
+/Users/aliyagiztar/Desktop/c_storemanagement/bin/Debug/c_storemanagement.pdb
+/Users/aliyagiztar/Desktop/c_storemanagement/obj/Debug/c_storemanagement.csproj.AssemblyReference.cache
+/Users/aliyagiztar/Desktop/c_storemanagement/obj/Debug/c_storemanagement.csproj.CoreCompileInputs.cache
+/Users/aliyagiztar/Desktop/c_storemanagement/obj/Debug/c_storemanagement.exe
+/Users/aliyagiztar/Desktop/c_storemanagement/obj/Debug/c_storemanagement.pdb
